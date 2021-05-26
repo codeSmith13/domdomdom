@@ -1,0 +1,40 @@
+.div {
+  display: flex;
+  width: 100%;
+  margin-top: 6vh;
+}
+
+.btn {
+  position: relative;
+  background: transparent;
+  border-radius: 6px;
+  text-align: center;
+  border: 2px solid #0099cc;
+  padding: 1em;
+  top: 4vh;
+  left: 4vh;
+}
+
+.btn:hover {
+  background-color: #008cba;
+  color: white;
+  cursor: pointer;
+  user-select: none;
+}
+.square {
+  width: 12vw;
+  height: 12vw;
+  display: inline-block;
+  margin: 2em;
+  background-color: black;
+}
+
+ .square:hover {
+  user-select: none;
+  cursor: pointer;
+} */
+
+.squareText {
+  color: white;
+  text-align: center;
+}
